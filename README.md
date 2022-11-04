@@ -1,5 +1,5 @@
 ### Project Overview.
-![react_ecommerce_website](https://user-images.githubusercontent.com/59114274/199574364-68a6aebf-850d-417e-b03f-3bf4138d4fa1.
+![react_ecommerce_website](https://user-images.githubusercontent.com/59114274/199574364-68a6aebf-850d-417e-b03f-3bf4138d4fa1
 
 # Getting Started with Create React App
 
