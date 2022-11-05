@@ -3,7 +3,7 @@
 
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/cre
+This project was bootstrapped with [Create React App](https://github.com/facebook/cr
 
 ## Available Scripts
 
