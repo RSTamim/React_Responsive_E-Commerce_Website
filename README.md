@@ -1,6 +1,6 @@
 ### Project Overview.
 ![react_ecommerce_website](https://user-images.githubusercontent.com/59114274/199574364-68a6aebf-850d-417e-b03f-3bf4138d4fa1.png)
-![react_ecommerce_website](https://user-
+![react_ecommerce_website](https://
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
