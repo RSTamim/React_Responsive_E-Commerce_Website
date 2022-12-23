@@ -5,7 +5,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
 
-This project was boot
+This project was
 ## Available Scripts
 
 In the project directory, you can run:
